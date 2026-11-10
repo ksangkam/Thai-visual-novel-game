@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" fill="none">
+  <defs><linearGradient id="panel" x2="0" y2="1"><stop stop-color="#251714" stop-opacity=".92"/><stop offset="1" stop-color="#160f0e" stop-opacity=".96"/></linearGradient></defs>
+  <path d="M30 18H1250V250H30Q12 250 12 232V38Q12 18 30 18Z" fill="url(#panel)" stroke="#C9A45C" stroke-width="5"/>
+  <path d="M43 32H1237V236H43Q29 236 29 221V47Q29 32 43 32Z" stroke="#F0D99E" stroke-opacity=".7" stroke-width="2"/>
+  <path d="M48 48h46q-17 12-20 31-8-18-26-20m1184-11h-46q17 12 20 31 8-18 26-20M48 220h46q-17-12-20-31-8 18-26 20m1184 11h-46q17-12 20-31 8 18 26 20" stroke="#D8B56E" stroke-width="3"/>
+  <circle cx="112" cy="140" r="4" fill="#E8D6A4"/><circle cx="1168" cy="140" r="4" fill="#E8D6A4"/>
+</svg>

@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "status": "partial",
+  "backgrounds": {
+    "bg_main_menu": "assets/backgrounds/main_menu/bg_main_menu.webp",
+    "bg_scene01": "assets/backgrounds/scenes/bg_scene01.webp",
+    "bg_scene02": "assets/backgrounds/scenes/bg_scene02.webp"
+  },
+  "eventCG": {
+    "cg_scene05": "assets/backgrounds/cg/cg_scene05.webp"
+  },
+  "characters": {
+    "phlai_ngam": {
+      "designSheet": "assets/characters/phlai_ngam/design_sheet.png",
+      "canvaMediaId": "MAHaXU0NsTM",
+      "sourceUrl": "https://www.canva.com/M/MAHaXU0NsTM?utm_source=OC-AaBlKrqBJJNF&utm_campaign=agent_connector_create_image_asset_opened",
+      "width": 149,
+      "height": 199,
+      "bytes": 54035,
+      "status": "generated_preview_not_approved_for_production",
+      "expressionSprites": {}
+    },
+    "wantong": {
+      "designSheet": "assets/characters/wantong/design_sheet.png",
+      "canvaMediaId": "MAHaXUqd2_U",
+      "sourceUrl": "https://www.canva.com/M/MAHaXUqd2_U?utm_source=OC-AaBlKrqBJJNF&utm_campaign=agent_connector_create_image_asset_opened",
+      "width": 149,
+      "height": 199,
+      "bytes": 57781,
+      "status": "generated_preview_not_approved_for_production",
+      "expressionSprites": {}
+    },
+    "khunchang": {
+      "designSheet": "assets/characters/khunchang/design_sheet.png",
+      "canvaMediaId": "MAHaXbNt_yc",
+      "sourceUrl": "https://www.canva.com/M/MAHaXbNt_yc?utm_source=OC-AaBlKrqBJJNF&utm_campaign=agent_connector_create_image_asset_opened",
+      "width": 149,
+      "height": 199,
+      "bytes": 56248,
+      "status": "generated_preview_not_approved_for_production",
+      "expressionSprites": {}
+    },
+    "khunphaen": {
+      "designSheet": "assets/characters/khunphaen/design_sheet.png",
+      "canvaMediaId": "MAHaXUn9S5A",
+      "sourceUrl": "https://www.canva.com/M/MAHaXUn9S5A?utm_source=OC-AaBlKrqBJJNF&utm_campaign=agent_connector_create_image_asset_opened",
+      "width": 149,
+      "height": 199,
+      "bytes": 55802,
+      "status": "generated_preview_not_approved_for_production",
+      "expressionSprites": {}
+    },
+    "thongprasi": {
+      "designSheet": "assets/characters/thongprasi/design_sheet.png",
+      "canvaMediaId": "MAHaXZG0quI",
+      "sourceUrl": "https://www.canva.com/M/MAHaXZG0quI?utm_source=OC-AaBlKrqBJJNF&utm_campaign=agent_connector_create_image_asset_opened",
+      "width": 149,
+      "height": 199,
+      "bytes": 53844,
+      "status": "generated_preview_not_approved_for_production",
+      "expressionSprites": {}
+    },
+    "khrua_nak": {
+      "designSheet": "assets/characters/khrua_nak/design_sheet.png",
+      "canvaMediaId": "MAHaXZX5dpk",
+      "sourceUrl": "https://www.canva.com/M/MAHaXZX5dpk?utm_source=OC-AaBlKrqBJJNF&utm_campaign=agent_connector_create_image_asset_opened",
+      "width": 149,
+      "height": 199,
+      "bytes": 54177,
+      "status": "generated_preview_not_approved_for_production",
+      "expressionSprites": {}
+    },
+    "hongphrai": {
+      "designSheet": "assets/characters/hongphrai/design_sheet.png",
+      "canvaMediaId": "MAHaXdN7MrA",
+      "sourceUrl": "https://www.canva.com/M/MAHaXdN7MrA?utm_source=OC-AaBlKrqBJJNF&utm_campaign=agent_connector_create_image_asset_opened",
+      "width": 149,
+      "height": 199,
+      "bytes": 52690,
+      "status": "generated_preview_not_approved_for_production",
+      "expressionSprites": {}
+    }
+  },
+  "ui": {
+    "dialogue_box_frame": "assets/ui/dialogue-box-frame.svg",
+    "name_plate": "assets/ui/name-plate.svg",
+    "choice_panel_frame": "assets/ui/choice-panel-frame.svg",
+    "vocabulary_icon": "assets/ui/vocabulary-icon.svg",
+    "next_dialogue_icon": "assets/ui/next-dialogue-icon.svg",
+    "menu_decoration": "assets/ui/menu-decoration.svg",
+    "chapter_transition_decoration": "assets/ui/chapter-transition-decoration.svg"
+  }
+}

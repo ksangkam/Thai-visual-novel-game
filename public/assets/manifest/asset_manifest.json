@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "status": "complete",
+  "backgrounds": {
+    "bg_main_menu": "assets/backgrounds/main_menu/bg_main_menu.webp",
+    "bg_scene01": "assets/backgrounds/scenes/bg_scene01.webp",
+    "bg_scene02": "assets/backgrounds/scenes/bg_scene02.webp",
+    "bg_scene03": "assets/backgrounds/scenes/bg_scene03.webp",
+    "bg_scene04": "assets/backgrounds/scenes/bg_scene04.webp",
+    "bg_scene05": "assets/backgrounds/scenes/bg_scene05.webp",
+    "bg_scene06": "assets/backgrounds/scenes/bg_scene06.webp",
+    "bg_scene07": "assets/backgrounds/scenes/bg_scene07.webp",
+    "bg_scene08": "assets/backgrounds/scenes/bg_scene08.webp"
+  },
+  "eventCG": {
+    "cg_scene01": "assets/backgrounds/cg/cg_scene01.webp",
+    "cg_scene03": "assets/backgrounds/cg/cg_scene03.webp",
+    "cg_scene05": "assets/backgrounds/cg/cg_scene05.webp",
+    "cg_scene08": "assets/backgrounds/cg/cg_scene08.webp"
+  },
+  "characters": {
+    "phlai_ngam": {
+      "designSheet": "assets/characters/phlai_ngam/design_sheet.png",
+      "width": 928,
+      "height": 1152,
+      "bytes": 1434758,
+      "status": "integrated_reference_sheet",
+      "previousPreview": null,
+      "expressionSprites": {
+        "normal": "assets/characters/phlai_ngam/phlai_ngam_normal.png",
+        "happy": "assets/characters/phlai_ngam/phlai_ngam_happy.png",
+        "sad": "assets/characters/phlai_ngam/phlai_ngam_sad.png",
+        "surprised": "assets/characters/phlai_ngam/phlai_ngam_surprised.png",
+        "worried": "assets/characters/phlai_ngam/phlai_ngam_worried.png"
+      }
+    },
+    "wantong": {
+      "designSheet": "assets/characters/wantong/design_sheet.png",
+      "width": 928,
+      "height": 1152,
+      "bytes": 1326570,
+      "status": "integrated_reference_sheet",
+      "previousPreview": null,
+      "expressionSprites": {
+        "normal": "assets/characters/wantong/wantong_normal.png",
+        "happy": "assets/characters/wantong/wantong_happy.png",
+        "sad": "assets/characters/wantong/wantong_sad.png",
+        "worried": "assets/characters/wantong/wantong_worried.png",
+        "crying": "assets/characters/wantong/wantong_crying.png"
+      }
+    },
+    "khunchang": {
+      "designSheet": "assets/characters/khunchang/design_sheet.png",
+      "width": 928,
+      "height": 1152,
+      "bytes": 1520537,
+      "status": "integrated_reference_sheet",
+      "previousPreview": null,
+      "expressionSprites": {
+        "normal": "assets/characters/khunchang/khunchang_normal.png",
+        "angry": "assets/characters/khunchang/khunchang_angry.png",
+        "suspicious": "assets/characters/khunchang/khunchang_suspicious.png",
+        "surprised": "assets/characters/khunchang/khunchang_surprised.png",
+        "smirk": "assets/characters/khunchang/khunchang_smirk.png"
+      }
+    },
+    "khunphaen": {
+      "designSheet": "assets/characters/khunphaen/design_sheet.png",
+      "width": 928,
+      "height": 1152,
+      "bytes": 1581942,
+      "status": "integrated_reference_sheet",
+      "previousPreview": null,
+      "expressionSprites": {
+        "normal": "assets/characters/khunphaen/khunphaen_normal.png",
+        "confident": "assets/characters/khunphaen/khunphaen_confident.png",
+        "serious": "assets/characters/khunphaen/khunphaen_serious.png",
+        "angry": "assets/characters/khunphaen/khunphaen_angry.png",
+        "surprised": "assets/characters/khunphaen/khunphaen_surprised.png"
+      }
+    },
+    "thongprasi": {
+      "designSheet": "assets/characters/thongprasi/design_sheet.png",
+      "width": 928,
+      "height": 1152,
+      "bytes": 1595318,
+      "status": "integrated_reference_sheet",
+      "previousPreview": null,
+      "expressionSprites": {
+        "normal": "assets/characters/thongprasi/thongprasi_normal.png",
+        "happy": "assets/characters/thongprasi/thongprasi_happy.png",
+        "surprised": "assets/characters/thongprasi/thongprasi_surprised.png",
+        "sad": "assets/characters/thongprasi/thongprasi_sad.png"
+      }
+    },
+    "khrua_nak": {
+      "designSheet": "assets/characters/khrua_nak/design_sheet.png",
+      "width": 928,
+      "height": 1152,
+      "bytes": 1402361,
+      "status": "integrated_reference_sheet",
+      "previousPreview": null,
+      "expressionSprites": {
+        "normal": "assets/characters/khrua_nak/khrua_nak_normal.png",
+        "happy": "assets/characters/khrua_nak/khrua_nak_happy.png",
+        "serious": "assets/characters/khrua_nak/khrua_nak_serious.png"
+      }
+    },
+    "hongphrai": {
+      "designSheet": "assets/characters/hongphrai/design_sheet.png",
+      "width": 928,
+      "height": 1152,
+      "bytes": 1588115,
+      "status": "integrated_reference_sheet",
+      "previousPreview": null,
+      "expressionSprites": {
+        "normal": "assets/characters/hongphrai/hongphrai_normal.png",
+        "mysterious": "assets/characters/hongphrai/hongphrai_mysterious.png",
+        "alert": "assets/characters/hongphrai/hongphrai_alert.png"
+      }
+    }
+  },
+  "ui": {
+    "dialogue_box_frame": "assets/ui/dialogue-box-frame.svg",
+    "name_plate": "assets/ui/name-plate.svg",
+    "choice_panel_frame": "assets/ui/choice-panel-frame.svg",
+    "vocabulary_icon": "assets/ui/vocabulary-icon.svg",
+    "next_dialogue_icon": "assets/ui/next-dialogue-icon.svg",
+    "menu_decoration": "assets/ui/menu-decoration.svg",
+    "chapter_transition_decoration": "assets/ui/chapter-transition-decoration.svg"
+  },
+  "reviewRequired": [],
+  "consistencyReview": []
+}

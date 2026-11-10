@@ -1,0 +1,808 @@
+{
+  "source": "pics/assets",
+  "expected_sprites": 30,
+  "found_design_sheets": 7,
+  "found_sprites": 30,
+  "found_backgrounds": 9,
+  "found_event_cg": 4,
+  "missing": [],
+  "unexpected_sprites": [],
+  "images": [
+    {
+      "file": "pics/assets/characters/phlai_ngam/design_sheet.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 928,
+      "height": 1152,
+      "bytes": 774892,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "phlai_ngam/design_sheet"
+    },
+    {
+      "file": "pics/assets/characters/phlai_ngam/phlai_ngam_normal.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 19063538,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1340,
+        361,
+        4785,
+        7200
+      ],
+      "asset": "phlai_ngam/normal"
+    },
+    {
+      "file": "pics/assets/characters/phlai_ngam/phlai_ngam_happy.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 21592126,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1293,
+        412,
+        4601,
+        7200
+      ],
+      "asset": "phlai_ngam/happy"
+    },
+    {
+      "file": "pics/assets/characters/phlai_ngam/phlai_ngam_sad.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 24584696,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1084,
+        395,
+        4815,
+        7200
+      ],
+      "asset": "phlai_ngam/sad"
+    },
+    {
+      "file": "pics/assets/characters/phlai_ngam/phlai_ngam_surprised.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 24280047,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1066,
+        182,
+        4821,
+        7200
+      ],
+      "asset": "phlai_ngam/surprised"
+    },
+    {
+      "file": "pics/assets/characters/phlai_ngam/phlai_ngam_worried.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 25016383,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1024,
+        202,
+        4776,
+        7200
+      ],
+      "asset": "phlai_ngam/worried"
+    },
+    {
+      "file": "pics/assets/characters/wantong/design_sheet.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 928,
+      "height": 1152,
+      "bytes": 626311,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "wantong/design_sheet"
+    },
+    {
+      "file": "pics/assets/characters/wantong/wantong_ normal.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 20839193,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1459,
+        443,
+        4629,
+        7200
+      ],
+      "asset": "wantong/normal"
+    },
+    {
+      "file": "pics/assets/characters/wantong/wantong_ happy.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 21818563,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1369,
+        230,
+        4679,
+        7200
+      ],
+      "asset": "wantong/happy"
+    },
+    {
+      "file": "pics/assets/characters/wantong/wantong_ sad.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 27620046,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1216,
+        353,
+        4820,
+        7200
+      ],
+      "asset": "wantong/sad"
+    },
+    {
+      "file": "pics/assets/characters/wantong/wantong_ worried.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 23677469,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1228,
+        362,
+        4881,
+        7200
+      ],
+      "asset": "wantong/worried"
+    },
+    {
+      "file": "pics/assets/characters/wantong/wantong_ crying.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 26253222,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1216,
+        351,
+        4820,
+        7200
+      ],
+      "asset": "wantong/crying"
+    },
+    {
+      "file": "pics/assets/characters/khunchang/design_sheet.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 928,
+      "height": 1152,
+      "bytes": 760440,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "khunchang/design_sheet"
+    },
+    {
+      "file": "pics/assets/characters/khunchang/khunchan_normal.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 32124369,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        994,
+        248,
+        4832,
+        7200
+      ],
+      "asset": "khunchang/normal"
+    },
+    {
+      "file": "pics/assets/characters/khunchang/khunchan_angry.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 37202281,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        619,
+        452,
+        5189,
+        7200
+      ],
+      "asset": "khunchang/angry"
+    },
+    {
+      "file": "pics/assets/characters/khunchang/khunchan_suspicious.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 32365583,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        988,
+        527,
+        4851,
+        7200
+      ],
+      "asset": "khunchang/suspicious"
+    },
+    {
+      "file": "pics/assets/characters/khunchang/khunchan_surprised.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 35225232,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        757,
+        401,
+        5051,
+        7200
+      ],
+      "asset": "khunchang/surprised"
+    },
+    {
+      "file": "pics/assets/characters/khunchang/khunchan_smirk.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 34504745,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        748,
+        197,
+        5103,
+        7200
+      ],
+      "asset": "khunchang/smirk"
+    },
+    {
+      "file": "pics/assets/characters/khunphaen/design_sheet.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 928,
+      "height": 1152,
+      "bytes": 866103,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "khunphaen/design_sheet"
+    },
+    {
+      "file": "pics/assets/characters/khunphaen/khunphaen_normal.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 22426277,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1234,
+        296,
+        4633,
+        7200
+      ],
+      "asset": "khunphaen/normal"
+    },
+    {
+      "file": "pics/assets/characters/khunphaen/khunphaen_confident.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 22144006,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1234,
+        296,
+        4633,
+        7200
+      ],
+      "asset": "khunphaen/confident"
+    },
+    {
+      "file": "pics/assets/characters/khunphaen/khunphaen_serious.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 23134608,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1234,
+        296,
+        4633,
+        7200
+      ],
+      "asset": "khunphaen/serious"
+    },
+    {
+      "file": "pics/assets/characters/khunphaen/khunphaen_angry.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 22376026,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1234,
+        296,
+        4633,
+        7200
+      ],
+      "asset": "khunphaen/angry"
+    },
+    {
+      "file": "pics/assets/characters/khunphaen/khunphaen_surprised.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 22547531,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1234,
+        296,
+        4634,
+        7200
+      ],
+      "asset": "khunphaen/surprised"
+    },
+    {
+      "file": "pics/assets/characters/thongprasi/design_sheet.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 928,
+      "height": 1152,
+      "bytes": 874419,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "thongprasi/design_sheet"
+    },
+    {
+      "file": "pics/assets/characters/thongprasi/thongprasi_normal.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 24755501,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1171,
+        351,
+        4706,
+        7200
+      ],
+      "asset": "thongprasi/normal"
+    },
+    {
+      "file": "pics/assets/characters/thongprasi/thongprasi_happy.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 24073502,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1281,
+        339,
+        4685,
+        7200
+      ],
+      "asset": "thongprasi/happy"
+    },
+    {
+      "file": "pics/assets/characters/thongprasi/thongprasi_surprised.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 24152392,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1168,
+        275,
+        4730,
+        7200
+      ],
+      "asset": "thongprasi/surprised"
+    },
+    {
+      "file": "pics/assets/characters/thongprasi/thongprasi_sad.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 21925818,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1281,
+        326,
+        4565,
+        7200
+      ],
+      "asset": "thongprasi/sad"
+    },
+    {
+      "file": "pics/assets/characters/khrua_nak/design_sheet.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 928,
+      "height": 1152,
+      "bytes": 753694,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "khrua_nak/design_sheet"
+    },
+    {
+      "file": "pics/assets/characters/khrua_nak/khrua_nak_normal.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 17726063,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1318,
+        425,
+        4644,
+        7200
+      ],
+      "asset": "khrua_nak/normal"
+    },
+    {
+      "file": "pics/assets/characters/khrua_nak/khrua_nak_happy.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 17911102,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1138,
+        533,
+        4845,
+        7200
+      ],
+      "asset": "khrua_nak/happy"
+    },
+    {
+      "file": "pics/assets/characters/khrua_nak/khrua_nak_serious.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 18615139,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1309,
+        482,
+        4650,
+        7200
+      ],
+      "asset": "khrua_nak/serious"
+    },
+    {
+      "file": "pics/assets/characters/hongphrai/design_sheet.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 928,
+      "height": 1152,
+      "bytes": 832524,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "hongphrai/design_sheet"
+    },
+    {
+      "file": "pics/assets/characters/hongphrai/hongphrai_normal.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 25883878,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1342,
+        493,
+        4637,
+        7200
+      ],
+      "asset": "hongphrai/normal"
+    },
+    {
+      "file": "pics/assets/characters/hongphrai/hongphrai_mysterious.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 28363962,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1127,
+        580,
+        4729,
+        7200
+      ],
+      "asset": "hongphrai/mysterious"
+    },
+    {
+      "file": "pics/assets/characters/hongphrai/hongphrai_alert.png",
+      "format": "PNG",
+      "mode": "RGBA",
+      "width": 5800,
+      "height": 7200,
+      "bytes": 25031868,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        1127,
+        580,
+        4729,
+        7200
+      ],
+      "asset": "hongphrai/alert"
+    },
+    {
+      "file": "pics/assets/backgrounds/main_menu/bg_main_menu.webp",
+      "format": "WEBP",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 528610,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_main_menu"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene01.webp",
+      "format": "WEBP",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 629274,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene01"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene02.webp",
+      "format": "WEBP",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 639254,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene02"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene03.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2696601,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene03"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene04.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2816487,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene04"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene05.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2953490,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene05"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene06.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2558165,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene06"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene07.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2504891,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene07"
+    },
+    {
+      "file": "pics/assets/backgrounds/scenes/bg_scene08.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2819580,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "bg_scene08"
+    },
+    {
+      "file": "pics/assets/backgrounds/cg/cg_scene01.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 3286075,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "cg_scene01"
+    },
+    {
+      "file": "pics/assets/backgrounds/cg/cg_scene03.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 2690349,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "cg_scene03"
+    },
+    {
+      "file": "pics/assets/backgrounds/cg/cg_scene05.webp",
+      "format": "WEBP",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 693876,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "cg_scene05"
+    },
+    {
+      "file": "pics/assets/backgrounds/cg/cg_scene08.jpg",
+      "format": "JPEG",
+      "mode": "RGB",
+      "width": 2752,
+      "height": 1536,
+      "bytes": 3100570,
+      "alpha_extrema": null,
+      "alpha_bbox": null,
+      "asset": "cg_scene08"
+    }
+  ],
+  "review_sheets": [
+    "tmp/pics_review/backgrounds.png",
+    "tmp/pics_review/character_design_sheets.png",
+    "tmp/pics_review/character_sprites.png",
+    "tmp/pics_review/event_cg.png"
+  ]
+}

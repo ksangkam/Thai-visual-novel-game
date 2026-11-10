@@ -1,0 +1,210 @@
+{
+  "characters": [
+    {
+      "characterId": "phlai_ngam",
+      "thaiName": "พลายงาม",
+      "role": "protagonist",
+      "personality": "ช่างสังเกต อดทน และกล้าหาญตามวัย",
+      "visualDescription": "เด็กชายรูปร่างสมส่วน ใบหน้าและแววตาชวนให้นึกถึงขุนแผน",
+      "costumeDescription": "ผ้านุ่งและเสื้อผ้าเด็กแบบไทยโบราณ สีครามกับงาช้าง",
+      "colorDirection": "คราม น้ำตาลอ่อน",
+      "expressions": [
+        "normal",
+        "happy",
+        "sad",
+        "angry",
+        "surprised",
+        "worried"
+      ],
+      "scenesAppeared": [
+        "scene01",
+        "scene02",
+        "scene03",
+        "scene04",
+        "scene05",
+        "scene06",
+        "scene07",
+        "scene08"
+      ],
+      "spritePath": "assets/characters/phlai_ngam/",
+      "approximateAge": "ประมาณ 9 ปีในช่วงเหตุการณ์ถูกลวงเข้าป่า (อ้างอิงเรื่องย่อ SAC); ฉาก 1 เป็นวัยทารก",
+      "designSheetPath": "assets/characters/phlai_ngam/design_sheet.png",
+      "spriteAssets": {
+        "normal": "assets/characters/phlai_ngam/phlai_ngam_normal.png",
+        "happy": "assets/characters/phlai_ngam/phlai_ngam_happy.png",
+        "sad": "assets/characters/phlai_ngam/phlai_ngam_sad.png",
+        "surprised": "assets/characters/phlai_ngam/phlai_ngam_surprised.png",
+        "worried": "assets/characters/phlai_ngam/phlai_ngam_worried.png"
+      }
+    },
+    {
+      "characterId": "wantong",
+      "thaiName": "วันทอง",
+      "role": "mother",
+      "personality": "รักลูก ระมัดระวัง และเจ็บปวดกับสถานการณ์ครอบครัว",
+      "visualDescription": "หญิงไทยวัยผู้ใหญ่ ใบหน้าสง่างาม แสดงอารมณ์ผ่านสายตา",
+      "costumeDescription": "ผ้าห่มสไบและโจงกระเบนแบบหญิงไทยโบราณ",
+      "colorDirection": "แดงหม่น ทองอ่อน",
+      "expressions": [
+        "normal",
+        "happy",
+        "sad",
+        "angry",
+        "worried"
+      ],
+      "scenesAppeared": [
+        "scene01",
+        "scene02",
+        "scene04",
+        "scene05",
+        "scene06",
+        "scene07"
+      ],
+      "spritePath": "assets/characters/wantong/",
+      "approximateAge": "ผู้ใหญ่; ไม่ระบุตัวเลขอายุ",
+      "designSheetPath": "assets/characters/wantong/design_sheet.png",
+      "spriteAssets": {
+        "normal": "assets/characters/wantong/wantong_normal.png",
+        "happy": "assets/characters/wantong/wantong_happy.png",
+        "sad": "assets/characters/wantong/wantong_sad.png",
+        "worried": "assets/characters/wantong/wantong_worried.png",
+        "crying": "assets/characters/wantong/wantong_crying.png"
+      }
+    },
+    {
+      "characterId": "khunchang",
+      "thaiName": "ขุนช้าง",
+      "role": "antagonist",
+      "personality": "มั่งคั่ง ขี้หึงแค้น และใช้อุบายในเหตุการณ์นี้",
+      "visualDescription": "ชายศีรษะล้าน รูปร่างท้วม เครื่องประดับฐานะดี",
+      "costumeDescription": "เสื้อผ้าและเครื่องประดับของผู้มีฐานะในสังคมโบราณ",
+      "colorDirection": "ม่วงเข้ม แดงอิฐ",
+      "expressions": [
+        "normal",
+        "angry",
+        "worried"
+      ],
+      "scenesAppeared": [
+        "scene01",
+        "scene02",
+        "scene03"
+      ],
+      "spritePath": "assets/characters/khunchang/",
+      "approximateAge": "ผู้ใหญ่; ไม่ระบุตัวเลขอายุ",
+      "designSheetPath": "assets/characters/khunchang/design_sheet.png",
+      "spriteAssets": {
+        "normal": "assets/characters/khunchang/khunchang_normal.png",
+        "angry": "assets/characters/khunchang/khunchang_angry.png",
+        "suspicious": "assets/characters/khunchang/khunchang_suspicious.png",
+        "surprised": "assets/characters/khunchang/khunchang_surprised.png",
+        "smirk": "assets/characters/khunchang/khunchang_smirk.png"
+      }
+    },
+    {
+      "characterId": "khunphaen",
+      "thaiName": "ขุนแผน",
+      "role": "father",
+      "personality": "บุคคลสำคัญในภูมิหลังและบิดาของพลายงาม; ไม่ปรากฏตัวโดยตรงใน 8 ฉากนี้",
+      "visualDescription": "ชายรูปร่างสง่า แต่งกายแบบนักรบ/ขุนนางตามการตีความภาพเกม",
+      "costumeDescription": "เครื่องแต่งกายโบราณเรียบสง่า; sprite ใช้เฉพาะเมื่อมีฉากเพิ่ม",
+      "colorDirection": "เขียวเข้ม ทอง",
+      "expressions": [
+        "normal",
+        "happy",
+        "angry"
+      ],
+      "scenesAppeared": [
+        "กล่าวถึงใน scene01",
+        "scene02",
+        "scene05; ไม่แสดงตัว"
+      ],
+      "spritePath": "assets/characters/khunphaen/",
+      "approximateAge": "ผู้ใหญ่; ไม่ปรากฏตัวโดยตรงในฉากเกม",
+      "designSheetPath": "assets/characters/khunphaen/design_sheet.png",
+      "spriteAssets": {
+        "normal": "assets/characters/khunphaen/khunphaen_normal.png",
+        "confident": "assets/characters/khunphaen/khunphaen_confident.png",
+        "serious": "assets/characters/khunphaen/khunphaen_serious.png",
+        "angry": "assets/characters/khunphaen/khunphaen_angry.png",
+        "surprised": "assets/characters/khunphaen/khunphaen_surprised.png"
+      }
+    },
+    {
+      "characterId": "thongprasi",
+      "thaiName": "ทองประศรี",
+      "role": "grandmother",
+      "personality": "อบอุ่น เด็ดเดี่ยว และรับหลานไว้ดูแล",
+      "visualDescription": "หญิงสูงวัย ใบหน้าใจดี ท่าทางมั่นคง",
+      "costumeDescription": "ผ้าสไบและผ้านุ่งสีสุภาพตามแบบหญิงผู้ใหญ่",
+      "colorDirection": "น้ำตาล ทองหม่น",
+      "expressions": [
+        "normal",
+        "happy",
+        "sad",
+        "surprised",
+        "worried"
+      ],
+      "scenesAppeared": [
+        "scene08"
+      ],
+      "spritePath": "assets/characters/thongprasi/",
+      "approximateAge": "ผู้สูงวัย/มารดาของขุนแผน; ไม่ระบุตัวเลขอายุ",
+      "designSheetPath": "assets/characters/thongprasi/design_sheet.png",
+      "spriteAssets": {
+        "normal": "assets/characters/thongprasi/thongprasi_normal.png",
+        "happy": "assets/characters/thongprasi/thongprasi_happy.png",
+        "surprised": "assets/characters/thongprasi/thongprasi_surprised.png",
+        "sad": "assets/characters/thongprasi/thongprasi_sad.png"
+      }
+    },
+    {
+      "characterId": "khrua_nak",
+      "thaiName": "ขรัวนาก",
+      "role": "monk",
+      "personality": "สุขุม เมตตา และให้ที่พักพิงชั่วคราว",
+      "visualDescription": "พระสูงวัย ท่าทางสงบ",
+      "costumeDescription": "จีวรพระสงฆ์; วาดอย่างเคารพและไม่เน้นอิทธิฤทธิ์",
+      "colorDirection": "ส้มหม่น น้ำตาล",
+      "expressions": [
+        "normal",
+        "happy",
+        "worried"
+      ],
+      "scenesAppeared": [
+        "scene06"
+      ],
+      "spritePath": "assets/characters/khrua_nak/",
+      "approximateAge": "พระผู้ใหญ่; อายุไม่ระบุ",
+      "designSheetPath": "assets/characters/khrua_nak/design_sheet.png",
+      "spriteAssets": {
+        "normal": "assets/characters/khrua_nak/khrua_nak_normal.png",
+        "happy": "assets/characters/khrua_nak/khrua_nak_happy.png",
+        "serious": "assets/characters/khrua_nak/khrua_nak_serious.png"
+      }
+    },
+    {
+      "characterId": "hongphrai",
+      "thaiName": "โหงพราย",
+      "role": "supernatural_helper",
+      "personality": "ผู้ช่วยเหนือธรรมชาติที่ภักดีต่อขุนแผนในเหตุการณ์นี้",
+      "visualDescription": "เงาร่างโปร่งแสง มีลักษณะมนุษย์ ไม่ทำให้ดูน่ากลัวเกินวัย",
+      "costumeDescription": "รูปลักษณ์กึ่งหมอกและองค์ประกอบพื้นบ้านแบบนามธรรม",
+      "colorDirection": "ฟ้าเทา เงิน",
+      "expressions": [
+        "normal",
+        "worried"
+      ],
+      "scenesAppeared": [
+        "scene04"
+      ],
+      "spritePath": "assets/characters/hongphrai/",
+      "approximateAge": "วิญญาณเหนือธรรมชาติ; อายุไม่ใช้กับตัวละครนี้",
+      "designSheetPath": "assets/characters/hongphrai/design_sheet.png",
+      "spriteAssets": {
+        "normal": "assets/characters/hongphrai/hongphrai_normal.png",
+        "mysterious": "assets/characters/hongphrai/hongphrai_mysterious.png",
+        "alert": "assets/characters/hongphrai/hongphrai_alert.png"
+      }
+    }
+  ]
+}

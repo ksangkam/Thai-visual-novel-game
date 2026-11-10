@@ -1,0 +1,104 @@
+{
+  "vocabulary": [
+    {
+      "vocabularyId": "v01",
+      "word": "โหงพราย",
+      "pronunciation": "โหง-พราย",
+      "meaning": "ผีพรายหรือวิญญาณที่เกี่ยวข้องกับความเชื่อในเรื่องขุนแผน",
+      "contextualMeaning": "ผู้ช่วยเหนือธรรมชาติของขุนแผนที่ช่วยพลายงามในเรื่อง",
+      "exampleSentence": "ในวรรณคดี โหงพรายช่วยให้พลายงามฟื้นจากอันตราย",
+      "sceneId": "scene04",
+      "difficultyLevel": "กลาง"
+    },
+    {
+      "vocabularyId": "v02",
+      "word": "ทุรกันดาร",
+      "pronunciation": "ทุ-รกัน-ดาน",
+      "meaning": "ลำบากและห่างไกลความเจริญ",
+      "contextualMeaning": "ใช้บรรยายเส้นทางที่เดินทางยากหรือกันดาร",
+      "exampleSentence": "ครอบครัวเตรียมอาหารและน้ำก่อนเดินทางผ่านพื้นที่ทุรกันดาร",
+      "sceneId": "scene07",
+      "difficultyLevel": "กลาง"
+    },
+    {
+      "vocabularyId": "v03",
+      "word": "ขรัว",
+      "pronunciation": "ขรัว",
+      "meaning": "คำเรียกพระภิกษุสูงอายุหรือพระที่มีสมณศักดิ์/ความนับถือในบริบทเก่า",
+      "contextualMeaning": "ขรัวนากเป็นพระที่รับฝากพลายงามไว้ชั่วคราว",
+      "exampleSentence": "พลายงามพักอยู่กับขรัวนากจนรุ่งเช้า",
+      "sceneId": "scene06",
+      "difficultyLevel": "กลาง"
+    },
+    {
+      "vocabularyId": "v04",
+      "word": "สมภาร",
+      "pronunciation": "สะ-มะ-พาน",
+      "meaning": "พระผู้เป็นหัวหน้าดูแลวัด",
+      "contextualMeaning": "ใช้เรียกเจ้าอาวาสหรือผู้ดูแลวัดในบริบทวรรณคดี",
+      "exampleSentence": "สมภารดูแลความเป็นอยู่ของผู้คนในวัด",
+      "sceneId": "scene06",
+      "difficultyLevel": "กลาง"
+    },
+    {
+      "vocabularyId": "v05",
+      "word": "บริวาร",
+      "pronunciation": "บอ-ริ-วาน",
+      "meaning": "ผู้ติดตามหรือผู้รับใช้ใกล้ชิด",
+      "contextualMeaning": "โหงพรายเป็นบริวารของขุนแผนตามเรื่องเล่า",
+      "exampleSentence": "บริวารช่วยดูแลภารกิจของเจ้านาย",
+      "sceneId": "scene04",
+      "difficultyLevel": "ง่าย"
+    },
+    {
+      "vocabularyId": "v06",
+      "word": "ลางสังหรณ์",
+      "pronunciation": "ลาง-สัง-หอน",
+      "meaning": "เหตุหรือความรู้สึกที่เชื่อว่าจะบอกเหตุการณ์ล่วงหน้า",
+      "contextualMeaning": "ในตอนนี้ ความฝันของวันทองทำหน้าที่คล้ายสัญญาณให้รู้ว่าลูกตกอยู่ในอันตราย",
+      "exampleSentence": "ความฝันทำให้วันทองรีบออกตามหาลูก",
+      "sceneId": "scene04",
+      "difficultyLevel": "กลาง"
+    },
+    {
+      "vocabularyId": "v07",
+      "word": "จำคุก",
+      "pronunciation": "จำ-คุก",
+      "meaning": "ควบคุมตัวไว้ในเรือนจำตามคำสั่ง",
+      "contextualMeaning": "ขุนแผนถูกจำคุกในภูมิหลังที่ทำให้วันทองและพลายงามต้องแยกกัน",
+      "exampleSentence": "ขุนแผนถูกจำคุกก่อนเหตุการณ์กำเนิดและเติบโตของพลายงาม",
+      "sceneId": "scene01",
+      "difficultyLevel": "ง่าย"
+    },
+    {
+      "vocabularyId": "v08",
+      "word": "ถวายตัว",
+      "pronunciation": "ถะ-หวาย-ตัว",
+      "meaning": "เข้าไปอยู่รับใช้ใกล้ชิดเจ้านายหรือพระมหากษัตริย์ตามธรรมเนียมเดิม",
+      "contextualMeaning": "คำนี้เป็นเหตุการณ์ช่วงหลังของเรื่อง ไม่ใช่หนึ่งในแปดฉากที่เกมนี้เล่า",
+      "exampleSentence": "ในเรื่องย่อ พลายงามภายหลังตั้งใจถวายตัวรับราชการ",
+      "sceneId": "scene08",
+      "difficultyLevel": "ยาก"
+    },
+    {
+      "vocabularyId": "v09",
+      "word": "ทำขวัญ",
+      "pronunciation": "ทำ-ขวัน",
+      "meaning": "ประกอบพิธีเรียกขวัญและให้พรเพื่อความเป็นสิริมงคล",
+      "contextualMeaning": "ทองประศรีทำพิธีรับขวัญพลายงามตามเรื่องย่อฉบับอ้างอิง",
+      "exampleSentence": "ครอบครัวทำพิธีทำขวัญเพื่อรับสมาชิกกลับบ้าน",
+      "sceneId": "scene08",
+      "difficultyLevel": "กลาง"
+    },
+    {
+      "vocabularyId": "v10",
+      "word": "ชาติกำเนิด",
+      "pronunciation": "ชาด-กำ-เนิด",
+      "meaning": "เชื้อสายและความเป็นมาของการเกิด",
+      "contextualMeaning": "พลายงามเรียนรู้ว่าขุนแผนเป็นบิดาและทองประศรีเป็นย่า",
+      "exampleSentence": "การรู้ชาติกำเนิดช่วยให้พลายงามเข้าใจสายสัมพันธ์ในครอบครัว",
+      "sceneId": "scene05",
+      "difficultyLevel": "กลาง"
+    }
+  ]
+}

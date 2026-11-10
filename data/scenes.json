@@ -1,0 +1,562 @@
+{
+  "sourceNotes": [
+    "See docs/storyboard.md for references and unresolved scope notes."
+  ],
+  "scenes": [
+    {
+      "sceneId": "scene01",
+      "sceneOrder": 1,
+      "title": "กำเนิดพลายงาม",
+      "estimatedReadingMinutes": 3,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene01",
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene01.webp",
+      "description": "วันทองให้กำเนิดบุตรชายในเรือนของขุนช้าง ตั้งชื่อว่าพลายงาม; ฉากเปิดแนะนำความสัมพันธ์ของพ่อแม่และลูกโดยไม่ยกกลอนต้นฉบับ",
+      "timeOfDay": "กลางวัน",
+      "atmosphere": "อบอุ่นแต่มีเงาความไม่มั่นคงในครอบครัว",
+      "characters": [
+        "wantong",
+        "phlai_ngam",
+        "khunchang"
+      ],
+      "positions": {
+        "wantong": "กลางภาพ อุ้มทารก",
+        "phlai_ngam": "อ้อมแขนวันทอง",
+        "khunchang": "ฉากหลังด้านขวา"
+      },
+      "expressions": {
+        "wantong": "happy",
+        "phlai_ngam": "normal",
+        "khunchang": "normal"
+      },
+      "visualEffects": [
+        "แสงอุ่นผ่านช่องหน้าต่าง",
+        "ผ้าม่านเคลื่อนไหวเบา ๆ"
+      ],
+      "learningObjectives": [
+        "LO1"
+      ],
+      "summary": "วันทองคลอดลูกชายชื่อพลายงาม เด็กเติบโตในเรือนขุนช้าง ก่อนที่ความคล้ายขุนแผนจะกลายเป็นชนวนความขัดแย้ง",
+      "dialogues": [
+        {
+          "dialogueId": "scene01_d01",
+          "speaker": "narrator",
+          "text": "ในเรือนของขุนช้าง วันทองให้กำเนิดบุตรชายและตั้งชื่อว่า พลายงาม",
+          "expression": null,
+          "position": null
+        },
+        {
+          "dialogueId": "scene01_d02",
+          "speaker": "wantong",
+          "text": "ลูกแม่…ขอให้เติบโตอย่างปลอดภัยนะ",
+          "expression": "happy",
+          "position": "กลางภาพ อุ้มทารก"
+        },
+        {
+          "dialogueId": "scene01_d03",
+          "speaker": "narrator",
+          "text": "พลายงามเป็นบุตรของวันทองกับขุนแผน แม้ในช่วงต้นชีวิตจะอยู่ในเรือนขุนช้าง",
+          "expression": null,
+          "position": null
+        },
+        {
+          "dialogueId": "scene01_d04",
+          "speaker": "wantong",
+          "text": "เมื่อถึงเวลา แม่จะเล่าเรื่องครอบครัวของลูกให้ฟัง",
+          "expression": "happy",
+          "position": "กลางภาพ อุ้มทารก"
+        }
+      ],
+      "transition": "ค่อย ๆ เลื่อนเวลาไปเมื่อพลายงามเติบโตเป็นเด็กชาย",
+      "choiceId": "choice01",
+      "nextScene": "scene02",
+      "eventCG": "cg_scene01"
+    },
+    {
+      "sceneId": "scene02",
+      "sceneOrder": 2,
+      "title": "ความแค้นของขุนช้าง",
+      "estimatedReadingMinutes": 3,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene02",
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene02.webp",
+      "description": "เมื่อพลายงามโตขึ้น ขุนช้างสังเกตเห็นความคล้ายขุนแผนและตระหนักว่าเด็กไม่ใช่บุตรของตน",
+      "timeOfDay": "บ่าย",
+      "atmosphere": "อึดอัดและตึงเครียด",
+      "characters": [
+        "phlai_ngam",
+        "khunchang",
+        "wantong"
+      ],
+      "positions": {
+        "phlai_ngam": "ด้านซ้าย กำลังทำกิจวัตร",
+        "khunchang": "กลางภาพ มองจากด้านหลัง",
+        "wantong": "ฉากหลัง"
+      },
+      "expressions": {
+        "phlai_ngam": "normal",
+        "khunchang": "angry",
+        "wantong": "worried"
+      },
+      "visualEffects": [
+        "เงาพาดบนใบหน้าขุนช้าง",
+        "เสียงลมเบา"
+      ],
+      "learningObjectives": [
+        "LO1",
+        "LO2"
+      ],
+      "summary": "ขุนช้างแน่ใจว่าพลายงามเป็นลูกขุนแผน ความแค้นจึงนำไปสู่อุบายในฉากถัดไป",
+      "dialogues": [
+        {
+          "dialogueId": "scene02_d01",
+          "speaker": "narrator",
+          "text": "หลายปีผ่านไป พลายงามเติบโตขึ้น รูปร่างหน้าตาทำให้ขุนช้างนึกถึงขุนแผน",
+          "expression": null,
+          "position": null
+        },
+        {
+          "dialogueId": "scene02_d02",
+          "speaker": "khunchang",
+          "text": "เด็กคนนี้ไม่ใช่ลูกของข้า…",
+          "expression": "angry",
+          "position": "กลางภาพ มองจากด้านหลัง"
+        },
+        {
+          "dialogueId": "scene02_d03",
+          "speaker": "narrator",
+          "text": "ความคิดนั้นทำให้ขุนช้างโกรธและคิดหาทางกำจัดพลายงาม",
+          "expression": null,
+          "position": null
+        },
+        {
+          "dialogueId": "scene02_d04",
+          "speaker": "wantong",
+          "text": "ขุนช้างเงียบผิดปกติ…ฉันต้องคอยระวังลูก",
+          "expression": "worried",
+          "position": "ฉากหลัง"
+        }
+      ],
+      "transition": "เฟดจากสายตาขุนช้างไปยังทางออกนอกเรือน",
+      "choiceId": "choice02",
+      "nextScene": "scene03"
+    },
+    {
+      "sceneId": "scene03",
+      "sceneOrder": 3,
+      "title": "อุบายกลางป่า",
+      "estimatedReadingMinutes": 3,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene03",
+      "description": "ขุนช้างลวงพลายงามไปเที่ยวป่าและทำร้ายจนสลบ จากนั้นทิ้งร่างไว้ใต้ขอนไม้ โดยไม่แสดงภาพความรุนแรง",
+      "timeOfDay": "พลบค่ำ",
+      "atmosphere": "เปลี่ยวและกดดัน",
+      "characters": [
+        "phlai_ngam",
+        "khunchang"
+      ],
+      "positions": {
+        "phlai_ngam": "กลางทางป่า",
+        "khunchang": "ด้านขวา"
+      },
+      "expressions": {
+        "phlai_ngam": "worried",
+        "khunchang": "angry"
+      },
+      "visualEffects": [
+        "เงาต้นไม้ยาว",
+        "ภาพค่อย ๆ มืดลงก่อนเหตุทำร้าย",
+        "ไม่มีเลือดหรือบาดแผลให้เห็น"
+      ],
+      "learningObjectives": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "summary": "อุบายพาพลายงามเข้าป่านำไปสู่การทำร้ายและการถูกทิ้งไว้ แต่เกมเล่าอย่างไม่โจ่งแจ้ง",
+      "dialogues": [
+        {
+          "dialogueId": "scene03_d01",
+          "speaker": "khunchang",
+          "text": "ไปเดินเล่นในป่ากับข้าเถอะ พลายงาม",
+          "expression": "angry",
+          "position": "ด้านขวา"
+        },
+        {
+          "dialogueId": "scene03_d02",
+          "speaker": "phlai_ngam",
+          "text": "เราไปไกลจากบ้านแล้วหรือยังครับ",
+          "expression": "worried",
+          "position": "กลางทางป่า"
+        },
+        {
+          "dialogueId": "scene03_d03",
+          "speaker": "narrator",
+          "text": "เมื่ออยู่ในที่เปลี่ยว ขุนช้างทำร้ายพลายงามจนหมดสติ แล้วทิ้งเขาไว้ใต้ขอนไม้",
+          "expression": null,
+          "position": null
+        },
+        {
+          "dialogueId": "scene03_d04",
+          "speaker": "narrator",
+          "text": "ภาพตัดออก เหลือเพียงเสียงลมและความมืด",
+          "expression": null,
+          "position": null
+        }
+      ],
+      "transition": "จางภาพสู่ความมืด แล้วปรากฏแสงจันทร์",
+      "choiceId": "choice03",
+      "nextScene": "scene04",
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene03.webp",
+      "eventCG": "cg_scene03"
+    },
+    {
+      "sceneId": "scene04",
+      "sceneOrder": 4,
+      "title": "ผู้ช่วยเหลือในเงามืด",
+      "estimatedReadingMinutes": 3,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene04",
+      "description": "ผีพรายบริวารของขุนแผนช่วยให้พลายงามฟื้นและพ้นจากขอนไม้ ก่อนทำให้วันทองรู้เหตุที่เกิดขึ้นผ่านความฝัน ตามเรื่องย่อแหล่งอ้างอิง",
+      "timeOfDay": "กลางคืน",
+      "atmosphere": "ลึกลับแต่ปลอดภัยขึ้น",
+      "characters": [
+        "phlai_ngam",
+        "hongphrai",
+        "wantong"
+      ],
+      "positions": {
+        "phlai_ngam": "กลางภาพใต้แสงจันทร์",
+        "hongphrai": "ขอบภาพในหมอก",
+        "wantong": "ปรากฏในภาพฝันช่วงท้าย"
+      },
+      "expressions": {
+        "phlai_ngam": "surprised",
+        "hongphrai": "normal",
+        "wantong": "worried"
+      },
+      "visualEffects": [
+        "หมอกบาง",
+        "แสงจันทร์",
+        "ประกายเหนือธรรมชาติแบบนุ่มนวล"
+      ],
+      "learningObjectives": [
+        "LO1",
+        "LO2"
+      ],
+      "summary": "โหงพรายช่วยพลายงามให้ฟื้น และไปเข้าฝันว่าวันทองจะได้รู้ตำแหน่งของลูก",
+      "dialogues": [
+        {
+          "dialogueId": "scene04_d01",
+          "speaker": "narrator",
+          "text": "ในความมืด มีเงาลึกลับเข้ามาช่วยยกขอนไม้ออกจากร่างพลายงาม",
+          "expression": null,
+          "position": null
+        },
+        {
+          "dialogueId": "scene04_d02",
+          "speaker": "hongphrai",
+          "text": "ฟื้นเถิด พลายงาม เจ้ายังปลอดภัย",
+          "expression": "normal",
+          "position": "ขอบภาพในหมอก"
+        },
+        {
+          "dialogueId": "scene04_d03",
+          "speaker": "phlai_ngam",
+          "text": "ข้า…ยังมีชีวิตอยู่หรือ",
+          "expression": "surprised",
+          "position": "กลางภาพใต้แสงจันทร์"
+        },
+        {
+          "dialogueId": "scene04_d04",
+          "speaker": "narrator",
+          "text": "โหงพรายช่วยให้เด็กชายฟื้น แล้วไปเข้าฝันว่าวันทองเพื่อบอกเหตุร้าย",
+          "expression": null,
+          "position": null
+        }
+      ],
+      "transition": "แสงจันทร์เปลี่ยนเป็นแสงก่อนรุ่งเช้า",
+      "choiceId": "choice04",
+      "nextScene": "scene05",
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene04.webp"
+    },
+    {
+      "sceneId": "scene05",
+      "sceneOrder": 5,
+      "title": "ความจริงจากปากแม่",
+      "estimatedReadingMinutes": 4,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene05",
+      "description": "วันทองตามหาพลายงาม พบลูก และเปิดเผยว่าขุนแผนคือบิดา พร้อมอธิบายว่าขุนช้างทำร้ายเขา",
+      "timeOfDay": "ใกล้รุ่ง",
+      "atmosphere": "เศร้ากังวลแล้วคลายเป็นอบอุ่น",
+      "characters": [
+        "wantong",
+        "phlai_ngam"
+      ],
+      "positions": {
+        "wantong": "ซ้าย คุกเข่าเข้าหาลูก",
+        "phlai_ngam": "ขวา นั่งพัก"
+      },
+      "expressions": {
+        "wantong": "sad",
+        "phlai_ngam": "worried"
+      },
+      "visualEffects": [
+        "แสงรุ่งอรุณ",
+        "ลดหมอกเมื่อแม่ลูกพบกัน"
+      ],
+      "learningObjectives": [
+        "LO1",
+        "LO2"
+      ],
+      "summary": "วันทองพบพลายงามและบอกความจริงเรื่องบิดา ความรักและความห่วงใยผลักให้เธอหาทางปกป้องลูก",
+      "dialogues": [
+        {
+          "dialogueId": "scene05_d01",
+          "speaker": "wantong",
+          "text": "ลูกแม่! แม่ตามหาเจ้าแทบไม่ไหว",
+          "expression": "sad",
+          "position": "ซ้าย คุกเข่าเข้าหาลูก"
+        },
+        {
+          "dialogueId": "scene05_d02",
+          "speaker": "phlai_ngam",
+          "text": "ขุนช้างพาผมเข้าป่า แล้วผมก็จำอะไรไม่ได้อีกเลย",
+          "expression": "worried",
+          "position": "ขวา นั่งพัก"
+        },
+        {
+          "dialogueId": "scene05_d03",
+          "speaker": "wantong",
+          "text": "พ่อของเจ้าคือขุนแผน ขุนช้างทำร้ายเจ้าเพราะคิดว่าเจ้าเป็นลูกของพ่อ",
+          "expression": "sad",
+          "position": "ซ้าย คุกเข่าเข้าหาลูก"
+        },
+        {
+          "dialogueId": "scene05_d04",
+          "speaker": "phlai_ngam",
+          "text": "ถ้าเช่นนั้น ผมควรไปหาใครต่อครับ",
+          "expression": "worried",
+          "position": "ขวา นั่งพัก"
+        },
+        {
+          "dialogueId": "scene05_d05",
+          "speaker": "wantong",
+          "text": "แม่จะฝากเจ้าไว้ในที่ปลอดภัย แล้วชี้ทางไปหาย่าทองประศรี",
+          "expression": "sad",
+          "position": "ซ้าย คุกเข่าเข้าหาลูก"
+        }
+      ],
+      "transition": "ตัดไปยังวัดใกล้บ้านในช่วงกลางคืน",
+      "choiceId": "choice05",
+      "nextScene": "scene06",
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene05.webp",
+      "eventCG": "cg_scene05"
+    },
+    {
+      "sceneId": "scene06",
+      "sceneOrder": 6,
+      "title": "การจากลาและฝากไว้ที่วัด",
+      "estimatedReadingMinutes": 3,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene06",
+      "description": "วันทองพาพลายงามไปฝากกับขรัวนากที่วัดจนรุ่งเช้า แล้วรีบกลับบ้าน; ฉากนี้อ้างอิงคำอธิบายในงานวิชาการที่ยกข้อความจากหนังสือเรียน สพฐ. 2564",
+      "timeOfDay": "กลางคืนต่อรุ่งเช้า",
+      "atmosphere": "เงียบ เศร้า และเร่งรีบ",
+      "characters": [
+        "wantong",
+        "phlai_ngam",
+        "khrua_nak"
+      ],
+      "positions": {
+        "wantong": "ซ้าย จับมือพลายงาม",
+        "phlai_ngam": "กลางภาพ",
+        "khrua_nak": "ขวา รับฝาก"
+      },
+      "expressions": {
+        "wantong": "sad",
+        "phlai_ngam": "sad",
+        "khrua_nak": "normal"
+      },
+      "visualEffects": [
+        "ตะเกียงแสงนวล",
+        "เปลี่ยนเป็นแสงเช้าในทรานซิชัน"
+      ],
+      "learningObjectives": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "summary": "วันทองจัดให้พลายงามอยู่ในความดูแลของขรัวนากชั่วคืน เพื่อปกป้องลูกก่อนให้เดินทางต่อ",
+      "dialogues": [
+        {
+          "dialogueId": "scene06_d01",
+          "speaker": "wantong",
+          "text": "คืนนี้ลูกอยู่กับขรัวนากก่อนนะ พรุ่งนี้แม่จะมาหา",
+          "expression": "sad",
+          "position": "ซ้าย จับมือพลายงาม"
+        },
+        {
+          "dialogueId": "scene06_d02",
+          "speaker": "khrua_nak",
+          "text": "อาตมาจะดูแลพลายงามให้ปลอดภัย",
+          "expression": "normal",
+          "position": "ขวา รับฝาก"
+        },
+        {
+          "dialogueId": "scene06_d03",
+          "speaker": "phlai_ngam",
+          "text": "แม่จะกลับมาหาผมใช่ไหมครับ",
+          "expression": "sad",
+          "position": "กลางภาพ"
+        },
+        {
+          "dialogueId": "scene06_d04",
+          "speaker": "wantong",
+          "text": "แม่จะมาส่งลูกเอง และบอกทางไปหาย่า",
+          "expression": "sad",
+          "position": "ซ้าย จับมือพลายงาม"
+        }
+      ],
+      "transition": "รุ่งเช้า วันทองมาพบลูกที่วัดอีกครั้ง",
+      "choiceId": "choice06",
+      "nextScene": "scene07",
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene06.webp"
+    },
+    {
+      "sceneId": "scene07",
+      "sceneOrder": 7,
+      "title": "เส้นทางสู่เมืองกาญจนบุรี",
+      "estimatedReadingMinutes": 3,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene07",
+      "description": "รุ่งเช้าวันทองชี้ทางให้พลายงามเดินทางไปหาทองประศรีที่กาญจนบุรี; ไม่เพิ่มเหตุการณ์ถามทางจากเด็กหรือชาวบ้านเพราะแหล่งที่ตรวจสอบยังไม่ยืนยันรายละเอียดนั้น",
+      "timeOfDay": "เช้า",
+      "atmosphere": "อาลัยแต่มีความหวัง",
+      "characters": [
+        "wantong",
+        "phlai_ngam"
+      ],
+      "positions": {
+        "wantong": "ซ้ายส่งห่อผ้าและชี้ทาง",
+        "phlai_ngam": "กลางภาพเตรียมออกเดินทาง"
+      },
+      "expressions": {
+        "wantong": "sad",
+        "phlai_ngam": "worried"
+      },
+      "visualEffects": [
+        "แสงเช้า",
+        "ทางเดินทอดไปขอบฉาก"
+      ],
+      "learningObjectives": [
+        "LO1",
+        "LO4"
+      ],
+      "summary": "วันทองบอกเส้นทางสู่บ้านย่าทองประศรี พลายงามออกเดินทางเพื่อความปลอดภัย",
+      "dialogues": [
+        {
+          "dialogueId": "scene07_d01",
+          "speaker": "wantong",
+          "text": "ทางนี้ไปเมืองกาญจนบุรี จงจำให้ดีและอย่าเดินหลง",
+          "expression": "sad",
+          "position": "ซ้ายส่งห่อผ้าและชี้ทาง"
+        },
+        {
+          "dialogueId": "scene07_d02",
+          "speaker": "phlai_ngam",
+          "text": "ผมจะไปหาย่าทองประศรีตามที่แม่บอก",
+          "expression": "worried",
+          "position": "กลางภาพเตรียมออกเดินทาง"
+        },
+        {
+          "dialogueId": "scene07_d03",
+          "speaker": "wantong",
+          "text": "เดินทางดี ๆ นะลูก แม่จำต้องกลับไป",
+          "expression": "sad",
+          "position": "ซ้ายส่งห่อผ้าและชี้ทาง"
+        },
+        {
+          "dialogueId": "scene07_d04",
+          "speaker": "narrator",
+          "text": "พลายงามออกเดินทางตามลำพัง โดยมีจุดหมายคือบ้านของย่า",
+          "expression": null,
+          "position": null
+        }
+      ],
+      "transition": "เลื่อนภาพตามแนวทางเดินแล้วเปิดสู่บ้านทองประศรี",
+      "choiceId": "choice07",
+      "nextScene": "scene08",
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene07.webp"
+    },
+    {
+      "sceneId": "scene08",
+      "sceneOrder": 8,
+      "title": "พบย่าทองประศรี",
+      "estimatedReadingMinutes": 4,
+      "contentType": "adapted_narrative_and_game_dialogue",
+      "background": "bg_scene08",
+      "description": "พลายงามเดินทางถึงบ้านทองประศรีและบอกความสัมพันธ์ของตน ย่ารับไว้ดูแล; เรื่องย่อแหล่งอ้างอิงยังเล่าต่อถึงพิธีรับขวัญและการพาไปพบขุนแผน แต่เกมชุดนี้จบช่วงที่ครอบครัวกลับมาพบกัน",
+      "timeOfDay": "บ่าย",
+      "atmosphere": "อบอุ่นและปลอดภัย",
+      "characters": [
+        "phlai_ngam",
+        "thongprasi"
+      ],
+      "positions": {
+        "thongprasi": "หน้าชานเรือน",
+        "phlai_ngam": "ด้านล่างยื่นมือไหว้"
+      },
+      "expressions": {
+        "thongprasi": "surprised",
+        "phlai_ngam": "worried"
+      },
+      "visualEffects": [
+        "แสงทอง",
+        "โทนสีอุ่นค่อย ๆ เพิ่ม"
+      ],
+      "learningObjectives": [
+        "LO1",
+        "LO2",
+        "LO4"
+      ],
+      "summary": "พลายงามพบย่าทองประศรี ย่ารับรู้ชาติกำเนิดและรับหลานไว้ดูแล เป็นจุดจบของบทแรก",
+      "dialogues": [
+        {
+          "dialogueId": "scene08_d01",
+          "speaker": "thongprasi",
+          "text": "หนูเป็นใคร เดินทางมาไกลเช่นนี้",
+          "expression": "surprised",
+          "position": "หน้าชานเรือน"
+        },
+        {
+          "dialogueId": "scene08_d02",
+          "speaker": "phlai_ngam",
+          "text": "ผมชื่อพลายงาม เป็นลูกของขุนแผนกับวันทองครับ",
+          "expression": "worried",
+          "position": "ด้านล่างยื่นมือไหว้"
+        },
+        {
+          "dialogueId": "scene08_d03",
+          "speaker": "thongprasi",
+          "text": "หลานของย่าจริงด้วย เข้ามาพักก่อนเถิด",
+          "expression": "surprised",
+          "position": "หน้าชานเรือน"
+        },
+        {
+          "dialogueId": "scene08_d04",
+          "speaker": "narrator",
+          "text": "ทองประศรีรับพลายงามไว้ดูแล การเดินทางช่วงนี้จบลงที่บ้านของย่า",
+          "expression": null,
+          "position": null
+        }
+      ],
+      "transition": null,
+      "choiceId": "choice08",
+      "nextScene": null,
+      "backgroundPath": "assets/backgrounds/scenes/bg_scene08.webp",
+      "eventCG": "cg_scene08"
+    }
+  ]
+}
